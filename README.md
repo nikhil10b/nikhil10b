@@ -99,13 +99,6 @@ Community-driven web application for animal welfare
 
 ---
 
-## 📊 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil10b&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil10b&layout=compact&theme=radical)
-
----
 
 ## 🌟 What I'm Working On
 
