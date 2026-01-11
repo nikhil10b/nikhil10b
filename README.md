@@ -1,4 +1,6 @@
 # Hi there, I'm Nikhil Arora 👋
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil10b&style=for-the-badge)
+
 
 **Software Development Engineer @ Renan | Full Stack Developer | Open Source Enthusiast**
 
@@ -13,7 +15,7 @@
 I'm a passionate Software Development Engineer with expertise in building scalable web applications and analytics platforms. Currently working on **FridayAI**, a B2B Analytics SaaS platform, where I develop dynamic dashboards, real-time data visualization features, and robust backend APIs.
 
 - 🎓 B.Tech in Information Technology from GGSIPU (CGPA: 9.1/10)
-- 💼 Currently working at **Renan Partners** as SDE-1
+- 💼 Currently working at **Renan** as SDE-1
 - 🌱 Exploring advanced cloud architectures and data analytics
 - 🏆 Multiple hackathon winner with $400+ in prizes
 - 📍 Based in Delhi, India
